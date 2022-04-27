@@ -5,6 +5,6 @@
 
  Team Members
  ------------
- Gulshan Jubaed Prince
- Shruti Chauhan
- Parth Govindbhai Ilasariya
+ Gulshan Jubaed Prince |
+ Shruti Chauhan |
+ Parth Govindbhai Ilasariya |
