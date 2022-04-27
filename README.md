@@ -5,6 +5,12 @@
 
  Team Members
  ------------
- Gulshan Jubaed Prince |
- Shruti Chauhan |
- Parth Govindbhai Ilasariya 
+Shruti Chauhan
+ID: 101405126
+|
+Parth Govindbhai Ilasariya
+ID: 101393950
+|
+Gulshan Jubaed Prince
+ID: 101398421
+
